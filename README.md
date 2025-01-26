@@ -62,7 +62,7 @@ We may update this privacy policy from time to time. We will notify users of any
 ## Contact Us
 
 If you have questions about this privacy policy or our privacy practices, please contact us at:
-- GitHub Issues: https://github.com/Trucker2827/MyAssistant/issues
+- GitHub Issues: (https://trucker2827.github.io/MyAssistant/privacy.html)
 - Email: Haydarevich69@icloud.com
 
 ## Compliance
